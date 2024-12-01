@@ -34,7 +34,7 @@ class Day1
         if (sizeList1 == sizeList2){
             for (int i = 0; i < sizeList1; i++){
                 int num1 = list1[i];
-                int num2= list2[i];
+                int num2 = list2[i];
 
                 TotalDistance += Math.Abs(num1 - num2);
             }
