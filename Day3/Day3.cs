@@ -4,7 +4,7 @@ using System.Formats.Asn1;
 using Microsoft.Win32.SafeHandles;
 using System.Text.RegularExpressions;
 
-class Day2
+class Day3
 {
     public static void Main()
     {
